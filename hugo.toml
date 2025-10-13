@@ -15,7 +15,7 @@ info = "Programmer, Language Nerd, Game Designer"
 description = "Sam LaGrave's personal website"
 avatarurl = "images/avatar.jpg"
 colorScheme = "auto"
-favicon_16 = "static/favicon.ico"
+favicon_16 = "favicon.ico"
 
 [[params.social]]
 name = "Github"
